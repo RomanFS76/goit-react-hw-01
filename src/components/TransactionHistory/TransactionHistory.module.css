@@ -1,0 +1,21 @@
+.table {
+  width: 670px;
+  margin: 0 auto;
+  outline: 1px solid black;
+  border-collapse: collapse;
+}
+.headRaw {
+  background-color: #2a2a2a;
+}
+
+.headtitle {
+  color: white;
+}
+
+.Raw:nth-child(even) {
+  background-color: #d3d3d3;
+}
+
+.itemRaw {
+  border-collapse: collapse;
+}
